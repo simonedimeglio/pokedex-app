@@ -1,4 +1,4 @@
-# pokedex-app
+# vue3-pokedex-app
 
 ## Project setup
 ```
